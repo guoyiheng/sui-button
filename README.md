@@ -1,8 +1,7 @@
 # sui-button
 
-[![Build Status](https://badgen.net/travis/mypridelife/sui-button/main)](https://travis-ci.com/mypridelife/sui-button)
-[![NPM Download](https://badgen.net/npm/dm/@mypridelife/sui-button)](https://www.npmjs.com/package/@mypridelife/sui-button)
-[![NPM Version](https://badge.fury.io/js/%40mypridelife%2Fsui-button.svg)](https://www.npmjs.com/package/@mypridelife/sui-button)
+[![NPM Download](https://badgen.net/npm/dt/@mypridelife/sui-button)](https://www.npmjs.com/package/@mypridelife/sui-button)
+[![NPM Version](https://badgen.net/npm/v/@mypridelife/sui-button)](https://www.npmjs.com/package/@mypridelife/sui-button)
 [![NPM License](https://badgen.net/npm/license/@mypridelife/sui-button)](https://github.com/mypridelife/sui-button/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mypridelife/sui-button/pulls)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
@@ -52,8 +51,6 @@ For those who are interested in contributing to this project, such as:
 - request new feature
 - fix a bug
 - implement a new feature
-
-Please refer to our [contributing guide](https://github.com/FEMessage/.github/blob/main/CONTRIBUTING.md).
 
 [⬆ Back to Top](#table-of-contents)
 
