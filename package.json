@@ -92,13 +92,13 @@
       "git add"
     ],
     "*.js": [
-      "eslint --fix",
       "prettier --write",
+      "eslint --fix",
       "git add"
     ],
     "*.vue": [
-      "eslint --fix",
       "prettier --write",
+      "eslint --fix",
       "stylelint --fix",
       "git add"
     ]
