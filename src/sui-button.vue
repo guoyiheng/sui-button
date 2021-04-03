@@ -87,9 +87,7 @@ export default {
   -webkit-box-shadow:
     0 0 0 1px transparent inset,
     0 0 0 0 rgba(34, 36, 38, 0.15) inset;
-  box-shadow:
-    0 0 0 1px transparent inset,
-    0 0 0 0 rgba(34, 36, 38, 0.15) inset;
+  box-shadow: 0 0 0 1px transparent inset, 0 0 0 0 rgba(34, 36, 38, 0.15) inset;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
