@@ -79,8 +79,8 @@ export default {
   text-transform: none;
   text-shadow: none;
   font-weight: bold;
-  line-height: 1em;
   font-style: normal;
+  line-height: 1em;
   text-align: center;
   text-decoration: none;
   border-radius: 0.28571429rem;
