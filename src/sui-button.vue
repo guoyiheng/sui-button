@@ -46,7 +46,7 @@ export default {
   methods: {
     /**
      * 点击事件
-     * @param {string} e - 1
+     * @param {string} e - 按钮事件默认参数
      * @public
      */
     handleClick(e) {
