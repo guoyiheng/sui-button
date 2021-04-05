@@ -156,13 +156,6 @@ export default {
   color: #1678c2 !important;
 }
 
-.ui.basic.blue.active.button {
-  background: transparent !important;
-  -webkit-box-shadow: 0 0 0 1px #1279c6 inset !important;
-  box-shadow: 0 0 0 1px #1279c6 inset !important;
-  color: #1a69a4 !important;
-}
-
 .sui-button-primary:active {
   -webkit-box-shadow: 0 0 0 1px #1a69a4 inset !important;
   box-shadow: 0 0 0 1px #1a69a4 inset !important;
