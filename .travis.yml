@@ -23,7 +23,7 @@ deploy:
   on:
     branch: main
 - provider: npm
-  email: levy9527@qq.com # use your own email
+  email: mypridelife@163.com # use your own email
   api_key: $NPM_TOKEN
   skip-cleanup: true
   on:
