@@ -2,7 +2,7 @@
 
 [![NPM Download](https://badgen.net/npm/dt/@mypridelife/sui-button)](https://www.npmjs.com/package/@mypridelife/sui-button)
 [![NPM Version](https://badgen.net/npm/v/@mypridelife/sui-button)](https://www.npmjs.com/package/@mypridelife/sui-button)
-[![NPM License](https://badgen.net/npm/license/@mypridelife/sui-button)](https://github.com/mypridelife/sui-button/blob/main/LICENSE)
+[![NPM License](https://badgen.net/github/license/mypridelife/sui-button)](https://github.com/mypridelife/sui-button/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mypridelife/sui-button/pulls)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
