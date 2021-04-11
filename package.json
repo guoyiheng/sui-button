@@ -35,9 +35,6 @@
     "stdver": "standard-version -m '[skip ci] chore(release): v%s'",
     "release": "gren release --override"
   },
-  "dependencies": {
-    "autoprefixer": "^10.2.5"
-  },
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/plugin-transform-runtime": "^7.13.10",
@@ -45,6 +42,7 @@
     "@femessage/github-release-notes": "latest",
     "@rollup/plugin-babel": "^5.3.0",
     "@rollup/plugin-commonjs": "^17.1.0",
+    "autoprefixer": "^8.0.0",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.5",
     "eslint": "^6.6.0",
