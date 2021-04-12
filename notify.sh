@@ -40,11 +40,11 @@ version=$(echo $html_url | awk -F '/' '{print $NF}')
 # curl -X POST https://oapi.dingtalk.com/robot/send\?access_token\=$DINGTALK_ROBOT_TOKEN -H 'Content-Type: application/json' -d "$msg"
 
 echo "5/5: notifying with bark"
-TITLE="${REPO_NAME}更新"
-DESC="${REPO_NAME}%0A${version}%0A${html_url}%0A${body}"
-echo "$TITLE"
-echo "$DESC"
-curl -X GET https://api.day.app/${BARK_TOKEN}/${TITLE}/${DESC}?sound=silence&isArchive=1
+# TITLE="${REPO_NAME}更新"
+# DESC="${REPO_NAME}%0A${version}%0A${html_url}%0A${body}"
+# echo "$TITLE"
+# echo "$DESC"
+# curl -X GET https://api.day.app/${BARK_TOKEN}/${TITLE}/${DESC}?sound=silence&isArchive=1
 
 rm $resp_tmp_file
 
